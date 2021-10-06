@@ -4,19 +4,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-
       <h1>hello world </h1>
-
-      <p> lorem
-      </p>
-
-    <p> hellow horld</p>
-    <h1>hello world </h1>
-
-      <p> lorem
-      </p>
-
-    <p> hellow horld</p>
+      <p> lorem</p>
+      <p> hellow horld</p>
+      <h1>hello world </h1>
+      <p> hellow horld</p>
 
     </div>
   );
